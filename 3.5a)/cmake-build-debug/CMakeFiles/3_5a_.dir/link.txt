@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/3_5a_.dir/main.c.o -o 3_5a_ 

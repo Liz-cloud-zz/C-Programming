@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/linda/Desktop/EEE/Prac3/3.5a)/main.c
+stdio.h
+-
+stdio.h
+-
+stdlib.h
+-
+math.h
+-
+string.h
+-
+

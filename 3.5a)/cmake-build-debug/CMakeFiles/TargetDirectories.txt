@@ -1,0 +1,3 @@
+/home/linda/Desktop/EEE/Prac3/3.5a)/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/linda/Desktop/EEE/Prac3/3.5a)/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/linda/Desktop/EEE/Prac3/3.5a)/cmake-build-debug/CMakeFiles/3_5a_.dir
